@@ -2,8 +2,6 @@
 
 *A very stranger way to take pictures of people (and things).*
 
-
-
 ## Pinky
 
 ###### Equipment
@@ -115,4 +113,4 @@
 
 *STILL UNDER HEAVENLY DEVELOPMENT DUE TO THE LACK OF BADGERS*
 
-*MORE TO COME OVER THE NEXT WEEK*
+*MORE CODE, INSTRUCTIONS AND PICTURES TO COME OVER THE NEXT WEEK*
