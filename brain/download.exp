@@ -1,0 +1,6 @@
+#!/usr/bin/expect
+        spawn scp -r admin@192.168.1.100:sdcard/Pinky/ready/ /home/pi/Brain/uploaded/
+        set pass "***"
+        expect {
+        password: {send "$pass\r"; exp_continue}
+        }
