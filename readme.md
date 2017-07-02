@@ -109,8 +109,17 @@
 * Responds to commands from Brain.
 * Tweets random images when activity is heavy.
 
+***
 
+![1](https://github.com/impshum/BadgerOS/blob/master/photos/1.jpg)
+![2](https://github.com/impshum/BadgerOS/blob/master/photos/2.jpg)
+![3](https://github.com/impshum/BadgerOS/blob/master/photos/3.jpg)
+![4](https://github.com/impshum/BadgerOS/blob/master/photos/4.jpg)
+![5](https://github.com/impshum/BadgerOS/blob/master/photos/5.jpg)
+![6](https://github.com/impshum/BadgerOS/blob/master/photos/6.jpg)
+
+***
 
 *STILL UNDER HEAVENLY DEVELOPMENT DUE TO THE LACK OF BADGERS*
 
-*MORE CODE, INSTRUCTIONS AND PICTURES TO COME OVER THE NEXT WEEK*
+*MORE CODE TO COME*
